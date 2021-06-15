@@ -1,7 +1,7 @@
 [app]
 name: Boa
 category: Tools
-author: Till Harbaum
+author: Till Harbaum & WildCat
 icon: icon.png
 desc: Python based web programming environment. This Boa-Version is tested for the TXT not for the Tx-Pi!
 html: index.html
