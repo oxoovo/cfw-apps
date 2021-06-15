@@ -65,6 +65,18 @@ uuid: 55238f32-e0f3-4e55-9a02-5f901a19d3e0
 version: 1.0
 firmware: >=0.9.0
 
+[autostart]
+name: Autostart
+category: Tests
+author: WildCat
+icon: icon.png
+desc: Autostart-App
+exec: autostart.py
+managed: yes
+uuid: 95cac4ea-14ef-69a2-a462-20gk5720fj69
+version: 1.0
+firmware: =0.9.5
+
 [bmx055]
 name: BMX055
 category: Tests
