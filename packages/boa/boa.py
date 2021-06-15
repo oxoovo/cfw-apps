@@ -80,7 +80,7 @@ class WebsocketServerThread(QThread):
     def send(self, str):
         # If there is no client then just drop the messages.
         if self.websocket and self.websocket.open:
-            self.loop.call_soon_threadsafe(asyncio.async, self.send_async(str))
+            pass
 
     def is_connected(self):
         return self.websocket != None
