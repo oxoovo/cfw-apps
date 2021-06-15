@@ -3,15 +3,15 @@ name: Boa
 category: Tools
 author: Till Harbaum
 icon: icon.png
-desc: Python based web programming environment. Boa only works on the TX-Pi, not on the TXT!
+desc: Python based web programming environment. This Boa-Version is tested for the TXT not for the Tx-Pi!
 html: index.html
 exec: boa.py
 managed: yes
 uuid: 6de6b33-edf3-435c-a839-86e8a632ddf
-version: 0.0.1
-firmware: >=0.9.0
+version: 0.0.2
+firmware: >=0.9.5
 
 [de]
 name: Boa
-desc: Python-basierte Web-Programmierumgebung. Boa läuft nur auf dem TX-PI, nicht auf dem TXT!
+desc: Python-basierte Web-Programmierumgebung. Boa wurde nur auf dem TXT getestet, nicht auf dem Tx-Pi!
 html: index.html?lang=de
