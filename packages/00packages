@@ -416,5 +416,5 @@ desc: MP3-Player, demo music: https://www.bensound.com
 exec: mp3_player.py
 managed: yes
 uuid: 44bd8baa-2de3-4ba5-b26e-2db41994a212
-version: 1.3
+version: 1.4
 firmware: 0.9.5
