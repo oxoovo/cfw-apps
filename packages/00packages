@@ -407,7 +407,7 @@ uuid: ad5e0ea4-4606-4254-add6-60c452c3db36
 version: 1.2
 firmware: 0.9.5
 
-[mp3-player]
+[mp3_player]
 name: MP3-Player
 category: tools
 author: Till Harbaum & WildCat
