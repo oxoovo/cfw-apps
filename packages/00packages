@@ -430,15 +430,3 @@ managed: yes
 uuid: 1a32cebe-2303-4072-a51b-156dcf03f01f
 version: 1.1
 firmware: 0.9.5
-
-[autostart]
-name: Autostart
-category: Tests
-author: WildCat
-icon: icon.png
-desc: Autostart-App
-exec: autostart.py
-managed: yes
-uuid: 95cac4ea-14ef-69a2-a462-20gk5720fj69
-version: 1.0
-firmware: 0.9.5
