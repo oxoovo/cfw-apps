@@ -430,3 +430,15 @@ managed: yes
 uuid: 1a32cebe-2303-4072-a51b-156dcf03f01f
 version: 1.1
 firmware: 0.9.5
+
+[wetter]
+name: Wetter
+author: WildCat
+category: Tools
+icon: icon.png
+desc: Wetter-App
+exec: wetter.py
+managed: yes
+uuid: 94ndh4ea-14dj-heu2-a462-2fzfbbjx72hd73h1d
+version: 1.0
+firmware: 0.9.5
