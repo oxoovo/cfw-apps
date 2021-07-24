@@ -436,7 +436,7 @@ name: Wetter
 author: WildCat
 category: Tools
 icon: icon.png
-desc: Wetter-App
+desc: Wetter-App für Wiesbaden
 exec: wetter.py
 managed: yes
 uuid: 94ndh4ea-14dj-heu2-a462-2fzfbbjx72hd73h1d
