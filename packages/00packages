@@ -420,16 +420,16 @@ version: 1.4
 firmware: 0.9.5
 
 [update]
-name: Update
+name: Update-hypnotoad
 category: system
 icon: icon.png
 ;Icon partly from https://www.iconfinder.com/icons/984748/arrows_refresh_reload_update_icon
 desc: Sytem Update
 exec: update.py
 managed: yes
-uuid: 1a32cebe-2303-4072-a51b-156dcf03f01f
+uuid: 1a32cebe-2303-7391-a51b-156dcf03f01d
 version: 1.1
-firmware: 0.9.5
+firmware: 0.9.3
 
 [wetter]
 name: Wetter
